@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+seed.sql.bak
+.DS_Store
